@@ -1,0 +1,12 @@
+.features-page {
+  padding: 20px;
+  text-align: center;
+}
+
+.product-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 50px; /* Espacio entre las tarjetas */
+}
+
